@@ -1,0 +1,6 @@
+{
+  "name": "GymFlow",
+  "description": "Production-grade gym management SaaS dashboard for Indian gyms with real-time membership metrics, dues tracking, daily collections, and expiry monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
